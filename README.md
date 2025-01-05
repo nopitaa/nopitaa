@@ -9,7 +9,7 @@ I am a student of the Faculty of Informatics Engineering at Telkom University. I
 - 📚 Always eager to learn new things and contribute to open-source projects
 
 ## 🔥 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php, java, python, c++, laravel, flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,py,java,kotlin,nodejs,cpp,&theme=light)](https://skillicons.dev)
 
 Thank you for visiting my profile! Let's connect and share knowledge.    
 
