@@ -8,6 +8,9 @@ I am a student of the Faculty of Informatics Engineering at Telkom University. I
 - 🛠️ Experienced in programming languages such as Python, Java, JavaScript, Lravel, PHP, etc. 
 - 📚 Always eager to learn new things and contribute to open-source projects
 
+## 🔥 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php, java, python, c++, laravel, flutter)](https://skillicons.dev)
+
 Thank you for visiting my profile! Let's connect and share knowledge.    
 
 <!--
