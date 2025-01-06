@@ -5,7 +5,6 @@ I am a student of the Faculty of Informatics Engineering at Telkom University. I
 ## 🚀 About Me
 - 🎓 Informatics Engineering student at Telkom University  
 - 🌍 Interested in web development, mobile application, and artificial intelligence  
-- 🛠️ Experienced in programming languages such as Python, Java, JavaScript, Lravel, PHP, etc. 
 - 📚 Always eager to learn new things and contribute to open-source projects
 
 ## 🔥 Languages & Frameworks
